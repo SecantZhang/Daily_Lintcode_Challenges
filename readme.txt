@@ -1,4 +1,4 @@
-Daily Lintcode Challenge. 
+Lintcode Challenge. 
 
 Progress: 
 Mar 09: 
